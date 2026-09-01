@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Automated Website Hosting Auditor & Outreach Engine
+# Automated Website Hosting Auditor & Outreach Engine
 
 An automated lead generation and outreach solution built with **Google Apps Script**, **Google Sheets**, and **Gemini 1.5 Flash AI**. 
 
